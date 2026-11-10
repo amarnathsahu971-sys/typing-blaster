@@ -1,0 +1,18 @@
+{
+  "name": "TYPE BLASTER - Space Arcade Typing Game",
+  "short_name": "TypeBlaster",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050814",
+  "theme_color": "#00f0ff",
+  "orientation": "portrait-primary",
+  "description": "Gamified 2D Space Shooter Typing Speed Test and Trainer.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%23050814'/><circle cx='50' cy='50' r='40' fill='%2300f0ff' opacity='0.2'/><text x='50' y='65' font-size='50' text-anchor='middle'>🚀</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
